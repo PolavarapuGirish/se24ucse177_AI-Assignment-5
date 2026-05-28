@@ -1,0 +1,10 @@
+pgmpy
+numpy
+networkx
+scipy
+pandas
+torch
+statsmodels
+tqdm
+joblib
+opt-einsum
