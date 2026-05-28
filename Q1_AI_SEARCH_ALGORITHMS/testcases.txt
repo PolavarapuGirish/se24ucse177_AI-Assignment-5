@@ -1,0 +1,45 @@
+Test Case 1
+
+Board:
+X X _
+O O _
+_ _ _
+
+Expected:
+AI should choose winning or blocking move.
+
+
+Test Case 2
+
+Board:
+X O X
+O X _
+_ _ O
+
+Expected:
+AI should choose diagonal winning move.
+
+
+Test Case 3
+
+Compare:
+Minimax vs Alpha-Beta
+
+Expected:
+Alpha-Beta should explore fewer nodes.
+
+
+Test Case 4
+
+Depth Limited Heuristic Search
+
+Expected:
+Move should be generated faster.
+
+
+Test Case 5
+
+MCTS with more simulations
+
+Expected:
+Better and more stable move selection.
