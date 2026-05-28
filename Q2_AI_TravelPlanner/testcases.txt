@@ -1,0 +1,62 @@
+Test Case 1
+
+Input:
+Interest: Beach
+Budget: Medium
+Days: 3
+
+Expected Output:
+Recommended City: Goa
+Tour Plan generated
+Food recommendations displayed
+Estimated cost calculated
+
+
+Test Case 2
+
+Input:
+Interest: Historical
+Budget: Low
+Days: 2
+
+Expected Output:
+Recommended City: Hyderabad or Delhi
+Historical places displayed
+Food recommendations displayed
+
+
+Test Case 3
+
+Input:
+Interest: Hill Station
+Budget: High
+Days: 4
+
+Expected Output:
+Recommended City: Manali
+Tour plan for 4 days generated
+Estimated cost displayed
+
+
+Test Case 4
+
+Input:
+Interest: Desert
+Budget: Medium
+Days: 2
+
+Expected Output:
+No matching destinations found.
+
+
+Test Case 5
+
+Input:
+Interest: Beach
+Budget: High
+Days: 5
+
+Expected Output:
+Travel plan generated
+Food recommendations displayed
+High budget cost estimation displayed
