@@ -33,13 +33,19 @@ Test Case 4
 
 Depth Limited Heuristic Search
 
+Input:
+Depth = 2
+
 Expected:
-Move should be generated faster.
+Move should be generated faster using heuristic evaluation.
 
 
 Test Case 5
 
-MCTS with more simulations
+Monte-Carlo Tree Search
+
+Input:
+Simulations = 1000
 
 Expected:
-Better and more stable move selection.
+Better and more stable move selection after more simulations.
