@@ -325,6 +325,28 @@ Used to connect:
 - treatments
 
 ---
+## Simple Knowledge Graph Implementation
+
+A simple Knowledge Graph was implemented using Python and NetworkX.
+
+Entities:
+- Student
+- University
+- Hyderabad
+- Artificial Intelligence
+- Knowledge Graph
+- Neo4j
+- Protégé
+
+Relationships:
+- studies
+- enrolled_in
+- located_in
+- learns
+- implemented_using
+- modeled_using
+
+The graph is visualized using Matplotlib.
 
 # Conclusion
 
